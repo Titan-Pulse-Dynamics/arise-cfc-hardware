@@ -1,3 +1,21 @@
+# ARISE CFC HW
+========================
+
+This repository contains the CFC HW for ARISE.
+
+ARISE CFC HW is derived from the OreSat CFC HW developed by Portland State Aerospace Society.
+
+Original project:
+https://github.com/oresat/oresat-cfc-hardware
+
+Original license:
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal
+(CERN-OHL-S v2)
+
+See the project history and upstream branch for provenance.
+
+TPD modifications are identified in CHANGELOG.md and the relevant files and documentation.
+
 # oresat-cfc-hardware
 
 Cirrrus Flux Camera hardware repository. See also https://www.oresat.org/satellites/oresat/mission-2-cfc.
